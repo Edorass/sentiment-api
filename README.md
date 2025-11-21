@@ -138,9 +138,9 @@ POST /api/token/
 
 {
 
-&nbsp;   "username": "your\_user",
+   "username": "your\_user",
 
-&nbsp;   "password": "your\_password"
+   "password": "your\_password"
 
 }
 
