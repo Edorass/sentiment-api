@@ -174,16 +174,18 @@ Example Sentiment Analysis Response
 
 
 
-Screenshots
+## Screenshots
+
+### Swagger UI
+![Swagger UI](screenshots/swagger.png)
+
+### Redoc UI
+![Redoc UI](screenshots/redoc.png)
+
+### Postman (CRUD + JWT)
+![Postman](screenshots/postman.png)
 
 
-
-1. Swagger UI: Shows all endpoints and request/response examples
-   !\[Swagger UI](screenshots/swagger.png)
-2. Redoc UI: Professional, well-organized API documentation
-   !\[Redoc UI](screenshots/redoc.png)
-3. Postman: CRUD requests with JWT authentication
-   !\[Postman](screenshots/postman.png)
 
 
 
