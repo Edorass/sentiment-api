@@ -1,6 +1,16 @@
 \# Sentiment Analysis API for User Comments
 
 
+## Screenshots
+
+### Swagger UI
+![Swagger UI](screenshots/swagger.png)
+
+### Redoc UI
+![Redoc UI](screenshots/redoc.png)
+
+### Postman (CRUD + JWT)
+![Postman](screenshots/postman.png)
 
 This project is a \*\*RESTful API\*\* built with \*\*Django REST Framework\*\* that allows managing user comments and performing \*\*sentiment analysis\*\* on them.  
 
@@ -174,22 +184,6 @@ Example Sentiment Analysis Response
 
 
 
-## Screenshots
-
-### Swagger UI
-![Swagger UI](screenshots/swagger.png)
-
-### Redoc UI
-![Redoc UI](screenshots/redoc.png)
-
-### Postman (CRUD + JWT)
-![Postman](screenshots/postman.png)
-
-
-
-
-
-	
 
 Resume Highlights
 
