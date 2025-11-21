@@ -160,15 +160,15 @@ Example Sentiment Analysis Response
 
 {
 
-&nbsp;   "id": 1,
+   "id": 1,
 
-&nbsp;   "text": "This product is awesome!",
+   "text": "This product is awesome!",
 
-&nbsp;   "sentiment": "positive",
+   "sentiment": "positive",
 
-&nbsp;   "confidence": 0.95,
+   "confidence": 0.95,
 
-&nbsp;   "created\_at": "2025-11-21T09:10:21.244297Z"
+   "created\_at": "2025-11-21T09:10:21.244297Z"
 
 }
 
@@ -183,14 +183,11 @@ Screenshots
 2. Redoc UI: Professional, well-organized API documentation
    !\[Redoc UI](screenshots/redoc.png)
 3. Postman: CRUD requests with JWT authentication
-
-&nbsp;  !\[Postman](screenshots/postman.png)
-
+   !\[Postman](screenshots/postman.png)
 
 
-&nbsp;	
 
-&nbsp;	
+	
 
 Resume Highlights
 
